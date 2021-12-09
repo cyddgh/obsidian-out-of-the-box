@@ -1,0 +1,149 @@
+{
+  "workspaces": {
+    "默认工作区": {
+      "main": {
+        "id": "a9296116cd528f7e",
+        "type": "split",
+        "children": [
+          {
+            "id": "5ec71cfb54300c75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b65d28f9cee49ca7",
+        "type": "split",
+        "children": [
+          {
+            "id": "c67f7c0e60d82c24",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0c468a12159001c4",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "842947a162c5fb4b",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "e846d297daa7e09a",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "5c00622e47bed8a4",
+        "type": "split",
+        "children": [
+          {
+            "id": "5d2f59c63bb10a1a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "74ee6c3a8edaffbc",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "b177cc7484fb34d9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3c5fd3b9e284f234",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "未命名.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "bf9e44eac4b6ea9c",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "未命名.md"
+                  }
+                }
+              },
+              {
+                "id": "32c73f25dfe3320a",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "e55ca7c43b48204f",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "未命名.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "active": "5ec71cfb54300c75"
+    }
+  },
+  "active": "默认工作区"
+}
